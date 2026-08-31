@@ -1,6 +1,7 @@
 # Jan Brůna
 
 I'm interested in privacy and security. In my free time, I work on [hryziko](https://hryziko.dev).
+Questions about hryziko? Join the [discord](https://discord.gg/a9nH6Z5Esx).
 
 ---
 
