@@ -17,11 +17,10 @@ If you want to support my work, **Monero** is preferred:
 <br>
 
 <details>
-<summary><small>Other options (BTC, ZANO)</small></summary>
+<summary><small>Other options (BTC)</small></summary>
 <br>
 
 - **BTC (Silent Payments):** `sp1qqdhuxuem770z0sckqhdj4g3sd3njjy53hfluqsnnt2yyjy4tmrsn7qa2gh9mmlkqdy0t9up30zy3xx5rrgcd4gex0m3dcegfm2n5xsa49g5klnm9`
-- **ZANO:** `ZxDAwAi3PbsDVZRMMEUrbgUwWpifbsvZN8v5FKSGKuA1aVjn3UsZeiZfzchDBYxj2cVVczBXwvpSJJrprmsbprPa12MrKbZWT`
 
 </details>
 </details>
