@@ -5,6 +5,15 @@ Questions about hryziko? Join the [discord](https://discord.gg/a9nH6Z5Esx).
 
 ---
 
+### Things I Recommend
+
+**Privacy and Security:**
+- [GrapheneOS](https://grapheneos.org/)
+- [PrivSec](https://privsec.dev/)
+- [secureblue](https://secureblue.dev/)
+- [Chromium Hardening Guide](https://rknf404.github.io/chromium-hardening-guide/)
+
+
 <details>
 <summary><b>Support options</b></summary>
 <br>
